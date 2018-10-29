@@ -10,7 +10,7 @@ Great example Global R-Ladies repo include [Berlin](https://github.com/rladies/m
 
 Every chapter gets an R-Ladies Global repo to help store and share their awesome events presentation. (Some chapters have created their own chapter github account, you don't have to, you can have an R-Ladies Global Repo with team admin on your repo). Please email [info]@[rladies.org] to be set up please provide your github name and which chapter you are organising.  
 
-### :warning: For OFFICIAL list of current chapter please find [here](https://github.com/rladies/starter-kit/blob/master/Current-Chapters.md) :warning:
+### :warning: For OFFICIAL list of current chapter please find [here](https://github.com/rladies/starter-kit/blob/master/Current-Chapters.csv) :warning:
 
 **North America**
 
@@ -32,6 +32,7 @@ Every chapter gets an R-Ladies Global repo to help store and share their awesome
  * Portland Oregon - ([Global Repo](https://github.com/rladies/meetup-presentations_portland), [PDX github](https://github.com/rladies-pdx))
  * Charlotteville,VA - US ([Global Repo](https://github.com/rladies/meetup-presentations_charlottesville), [Charlotteville github](https://github.com/RLadiesCharlottesville))
  * Vancouver, BC - CA ([Global Repo](https://github.com/rladies/meetup-presentations_vancouver), [Vancouver github](https://github.com/RLadiesVancouver))
+ * Baltimore, MD - US ([Global Repo](https://github.com/rladies/meetup-presentations_baltimore, [Baltimore github](https://github.com/rladies-baltimore))
  * Twin Cities, MN - US ([Global Repo](https://github.com/rladies/meetup-presentations_twincities), [Twin Cities github](https://github.com/rladiestc))
  * St Louis, MO - US ([Global Repo](https://www.meetup.com/R-Ladies-St-Louis)
  
@@ -46,6 +47,7 @@ Every chapter gets an R-Ladies Global repo to help store and share their awesome
  *  Mexico City – Mexico ([Global Repo](https://github.com/rladies/meetup-presentations_cdmx))
  *  San José – Costa Rica ([Global Repo](https://github.com/rladies/meetup-presentations_sanjose))
  *  Lima - Perú ([Global Repo](https://github.com/rladies/meetup-presentations_lima))
+ *  Santa Fe - Argentina ([Global Repo](https://github.com/rladies/meetup-presentations_santafe))
  
 **Europe**
 
